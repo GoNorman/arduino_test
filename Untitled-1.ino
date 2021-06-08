@@ -1,4 +1,4 @@
-#include "DHT.h"
+#include "DHT.h" pidor
 #include <MHZ.h>
 #include <Wire.h>
 #include <RTC.h>
